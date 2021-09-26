@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm <a href="https://www.facebook.com/PhuongMinh130/">Phương</a></h2>
+<h2>Hi 👋, I'm <a href="https://www.facebook.com/PhuongMinh130/">Phương !</a></h2>
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=arino130.arino130" alt="visitors"></p>
 <p></strong> I'm currently a freelance developer, I'm working on some projects and learning new things from it !</p>
 <p>You can find me at:
@@ -16,7 +16,7 @@
     <li>📧 Contact me via Gmail: <a href="phuongtm130@gmail.com">phuongtm130@gmail.com</a>.</li>
     <li>🎉 Thank you for visiting my wall.</li>
 </ul>
-<h2>🚀 Some Language I Use </h2>
+<h2>🚀 Some Language and Tool I Use </h2>
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="25" height="25" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="25" height="25" />
@@ -25,6 +25,9 @@
     <img src="https://i.pinimg.com/originals/79/18/66/791866447147ee53f4e65dffdf90d12b.png" alt="c#" width="25" height="25" />
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="25" height="25" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25" height="25" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="25" height="25" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="25" height="25" />
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" width="25" height="25" />
 
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=arino130&show_icons=true&count_private=true"
