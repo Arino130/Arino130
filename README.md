@@ -1,81 +1,40 @@
-### Hi there 👋
+<h2>Hey 👋, I'm <a href="https://www.facebook.com/PhuongMinh130/">Phương</a></h2>
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=arino130.arino130" alt="visitors"></p>
+<p></strong> I'm currently a freelance developer, I'm working on some projects and learning new things from it !</p>
 
-<!--
-**Arino130/Arino130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><a href="https://www.facebook.com/PhuongMinh130/">
+        <img src="https://img.shields.io/badge/-@AGD Music-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Facebook&amp;link=https://www.facebook.com/PhuongMinh130/"
+            alt="Facebook"></a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arino130)](https://github.com/Arino130)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arino130&langs_count=20)](https://github.com/Arino130)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arino130)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-<h2>Hey 👋, I'm <a href="https://stanleylim.me/">Stanley</a></h2>
-<p>I'm currently a software engineer at <strong><a href="https://www.snapchat.com/">Snapchat</a></strong> and formerly at <strong><a href="https://aws.amazon.com/">AWS</a></strong> based in 🌁 Seattle. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.</p>
-<p><a href="https://stanleylim.me"><img src="https://img.shields.io/badge/-stanleylim.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a> <a href="https://medium.com/@serbis"><img src="https://img.shields.io/badge/-@serbis-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@serbis" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/serbis/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a> <a href="https://dev.to/spiderpig86"><img src="https://img.shields.io/badge/-@spiderpig86-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/spiderpig86" alt="DevTo Badge"></a> <a href="https://open.spotify.com/user/1235099575"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a></p>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+    <a href="https://www.facebook.com/PhuongMinh130/">
+        <img src="https://img.shields.io/badge/-@AGD Music-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Facebook&amp;link=https://www.facebook.com/PhuongMinh130/"
+            alt="Facebook"></a>
+    <a href="https://soundcloud.com/arist-581732658">
+        <img src="https://img.shields.io/badge/-@AGD Music-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Soundcloud&amp;link=https://soundcloud.com/arist-581732658"
+            alt="Sound Cloud"></a>
+</p>
+<img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
-<li>📝 I regulary write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
-<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
-<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
-<li>🎉 Fun Fact: 我也会讲中文。</li>
+    <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
+    <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of
+        <strong>ML</strong>.</li>
+    <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
+    <li>📝 I regulary write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
+    <li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
+    <li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
+    <li>🎉 Fun Fact: 我也会讲中文。</li>
 </ul>
-<h2>✒️ Recent Posts</h2>
-<details>
-    <summary>Explore</summary>
-    <li><a target="_blank" href="https://blog.stanleylim.me/introducing-spottr---your-spotify-stats-year-round">Introducing Spottr - Your Spotify Stats Year-Round — July 16, 2021</a></li><li><a target="_blank" href="https://blog.stanleylim.me/github1s---instantly-browse-projects-on-vscode-in-your-browser">Github1s - Instantly Browse Projects on VSCode in Your Browser ⚡ — February 10, 2021</a></li><li><a target="_blank" href="https://blog.stanleylim.me/extensions-google-chrome's-soft-underbelly-(part-2)">Extensions: Google Chrome's Soft Underbelly (Part 2) — February 07, 2021</a></li><li><a target="_blank" href="https://blog.stanleylim.me/extensions-google-chrome's-soft-underbelly-(part-1)">Extensions: Google Chrome's Soft Underbelly (Part 1) — January 07, 2021</a></li><li><a target="_blank" href="https://blog.stanleylim.me/finally-featured-on-producthunt---lessons-learned">Finally Featured on ProductHunt — Lessons Learned — November 18, 2020</a></li>
-</details>
-<p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
-<h2>🚀 Some Tools I Use</h2>
+<h2>🚀 Some Language I Use </h2>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" alt="travis" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="25" height="25" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="25" height="25" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="25" height="25" />
+    <img src="https://i.pinimg.com/originals/79/18/66/791866447147ee53f4e65dffdf90d12b.png" alt="c#" width="25" height="25" />
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="25" height="25" />
+    <img src="data:image/jpeg;base64,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" width="25" height="25" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25" height="25" />
+
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=spiderpig86&show_icons=true&count_private=true" alt="spiderpig86" />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=Spiderpig86.Spiderpig86" alt="visitors"></p>
-
-
-
-
-
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=arino130&show_icons=true&count_private=true"
+    alt="arino130" />
