@@ -1,25 +1,20 @@
-<h2>Hey 👋, I'm <a href="https://www.facebook.com/PhuongMinh130/">Phương</a></h2>
+<h2>Hi 👋, I'm <a href="https://www.facebook.com/PhuongMinh130/">Phương</a></h2>
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=arino130.arino130" alt="visitors"></p>
 <p></strong> I'm currently a freelance developer, I'm working on some projects and learning new things from it !</p>
-
-<a href="https://www.facebook.com/PhuongMinh130/"></a>
-        
-
-<a href="https://www.facebook.com/PhuongMinh130/"></a></p>
-        
-<a href="https://soundcloud.com/arist-581732658"></a></p>
-        
+<p>You can find me at:
+        <a href="https://www.facebook.com/PhuongMinh130/">Facebook</a>
+        <a href="#">,</a>
+        <a href="https://soundcloud.com/arist-581732658">SoundCloud</a>  
+</p>
 <img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400px" height="280px"/>
-<h2>⚡️ A Few Quick Facts</h2>
+<h2>⚡️ Information about me</h2>
 <ul>
-    <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
-    <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of
-        <strong>ML</strong>.</li>
-    <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
-    <li>📝 I regulary write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
-    <li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
-    <li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
-    <li>🎉 Fun Fact: 我也会讲中文。</li>
+    <li>🔭 I'm currently studying programming at <a href="https://www.hutech.edu.vn/">Hutech University</a>.</li>
+    <li>📙 I'm learning about <strong>AI</strong>,<strong>Unity</strong>,<strong>IoT</strong>,<strong>Android</strong> .</li>
+    <li>🧐 My projects are all on Github <a href="https://github.com/arino130">Github</a>.</li>
+    <li>📝 In my free time, I often write music and play musical instruments, you can enjoy it at <a href="https://soundcloud.com/arist-581732658">SoundCloud</a>.</li>
+    <li>📧 Contact me via Gmail: <a href="phuongtm130@gmail.com">phuongtm130@gmail.com</a>.</li>
+    <li>🎉 Thank you for visiting my wall.</li>
 </ul>
 <h2>🚀 Some Language I Use </h2>
 <p align="left">
