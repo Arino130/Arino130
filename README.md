@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/badge/-@AGD Music-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Soundcloud&amp;link=https://soundcloud.com/arist-581732658"
             alt="Sound Cloud"></a>
 </p>
-<img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="500px" height="200px"/>
+<img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400px" height="280px"/>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
     <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
