@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="25" height="25" />
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/arduino_logo_icon_170518.png" width="25" height="25" />
     <img src="https://i.pinimg.com/originals/79/18/66/791866447147ee53f4e65dffdf90d12b.png" alt="c#" width="25" height="25" />
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="25" height="25" />
+    <img src="https://www.kindpng.com/picc/m/21-215460_microsoft-sql-server-logo-png-microsoft-sql-server.png" width="25" height="25" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25" height="25" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="25" height="25" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="25" height="25" />
