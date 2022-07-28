@@ -10,7 +10,7 @@
 <h2>⚡️ Information about me</h2>
 <ul>
     <li>🔭 I'm currently studying programming at <a href="https://www.hutech.edu.vn/">Hutech University</a>.</li>
-    <li>📙 I'm learning about <strong>AI</strong>,<strong>Unity</strong>,<strong>IoT</strong>,<strong>Android</strong> .</li>
+    <li>📙 I'm learning about <strong>AI</strong>, <strong>Unity</strong>, <strong>IoT</strong>, <strong>Android</strong> .</li>
     <li>🧐 My projects are all on Github <a href="https://github.com/arino130">Github</a>.</li>
     <li>📝 In my free time, I often write music and play musical instruments, you can enjoy it at <a href="https://soundcloud.com/arist-581732658">SoundCloud</a>.</li>
     <li>📧 Contact me via Gmail: <a href="phuongtm130@gmail.com">phuongtm130@gmail.com</a>.</li>
