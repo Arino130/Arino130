@@ -1,5 +1,4 @@
 <h2>Hi 👋, I'm <a href="https://www.facebook.com/PhuongMinh130/">Phương !</a></h2>
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=arino130.arino130" alt="visitors"></p>
 <p></strong> I'm currently a freelance developer, I'm working on some projects and learning new things from it !</p>
 <p>You can find me at:
         <a href="https://www.facebook.com/PhuongMinh130/">Facebook</a>
