@@ -15,7 +15,7 @@
     <li>📧 Contact me via Gmail: <a href="phuongtm130@gmail.com">phuongtm130@gmail.com</a>.</li>
     <li>🎉 Thank you for visiting my wall.</li>
 </ul>
-<h2>🚀 Some Language and Tool I Use </h2>
+<!-- <h2>🚀 Some Language and Tool I Use </h2>
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="25" height="25" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="25" height="25" />
@@ -28,6 +28,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="25" height="25" />
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" width="25" height="25" />
 
-</p>
+</p> -->
 <img src="https://github-readme-stats.vercel.app/api?username=arino130&show_icons=true&count_private=true"
     alt="arino130" />
